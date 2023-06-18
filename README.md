@@ -3,7 +3,7 @@ Then i have started my app (py manage.py startapp api). Then in installed apps i
 
 i have made model Data with all the details ,  and made aurls and serializer file .
 i have write the logic in view file .
-
+ I have used viewset , ModelViewSet , HyperlinkedModelSerializer.
 Url -  http://127.0.0.1:8000/api/Data/
 
 I have write the corresponding view for total_items_sold and write the url for that purpose in project url - http://127.0.0.1:8000/api/total_items
